@@ -10,9 +10,7 @@
   ###  3. section4: Simple counter 개발
   + section2에서 배운 내용을 바탕으로 첫 React APP 제작 및 React 심화 학습
   ###  4. section7: Todolist 개발
-  + 지금까지 학습한 내용을 바탕으로 Todolist 개발
-  ### 5. section11: 프로젝트 NARAS
-  + 세계 여러 나라들의 위치한 대륙, 수도, 인구를 보여주는 React APP 제작 및 배포, next js 적용 (진행중)
+  + 지금까지 학습한 내용을 바탕으로 Todolist 개발 (오류 수정중)
 
   
 ## 프로젝트 기간
